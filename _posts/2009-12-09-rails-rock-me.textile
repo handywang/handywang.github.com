@@ -1,19 +1,17 @@
 ---
 layout: post
-title: Rails Rock Me
+title: I am on my way
 ---
 
 h1. {{ page.title }}
 
-p(meta). 9 Dec 2008 - Beijing
+p(meta). 13 Dec 2008 - Beijing,China
 
-Since as a 7 years experienced Java developer, I have to admitted that the stuff that rock me this year is the Ruby language and the Rails framework. Here is the list:
+    After 3 years high school and 4 years software college study, I got a job in Finalist(BeiJing, China) IT Group. I must admitt that I had love these guys.
 
-# In the construction of the project-portal within the company, "Redmine":http://www.redmine.org/ (a flexible project management web application. Written using Ruby on Rails) is a big win against the awkward "Liferay":http://www.liferay.com. We even think about replacing it for our commercial "JIRA":http://www.atlassian.com/software/jira/ instance which used for years in our issue tracking. 
-The winning factor is that the "Keep It Simple" philosophy being gone through the language, framework and the application.
-# Happily fixed a small web project written in Ruby on Rails by a novice team. Cut the LOC from 7600 to 5500 while bring significant feature & performance improvements.
-# Adopted the "Sonar":http://sonar.codehaus.org/ as the quality metrics tool for the company. Glad to cooperated with the Sonar team in JRuby on Rails. 
-# Following the "RailsCasts":http://railscasts.com/ and "Ruby5":http://ruby5.envylabs.com/ news keep me exciting about the community growth with the contribution from lots of clever guys here.
-# Learning Ruby by reading the Book named "The Well-Grounded Rubyist":http://www.manning.com/black2/ and scripted it in small tasks bring me back the joyful memory of learning programing in the early day.
-# "Github":http://github.com/ inspired me to dig deeper into the beauty of the open-source world and start "blogging like a hacker":http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html.
-# To be continue ...
+# As a fresh man in company, I started my first real project "Report Engine" of piCompany with smart leader named Terry. The generate PDF document and analysis the source code of FCKeditor was so hard for me at that time.
+# AdvertiseUnion indeed was a new challenge for me, whatever technique and business. I knew I wasn't good at UI, so I did the work of coding data analysis, stat , IP reverse search services and some other public framework(such as pagination, sort), etc. However, I was growing.
+# Recent years(end at 2008), Ruby and ROR framework really are hot technique. So, first ROR team in Finlaist(BeiJing, China) was born named THAD. THAD stand for 4 members in the team: Terry, Handy, Alicia and Dan. In ROR project named "Race":http://race.finalist.hk, I was mainly resposible for deal with Gmail and JOSSO.
+# I didn't know if it's a good thing for following a unkonwn and new leader. However, it had happed. Leader Neil and me made up a new team for developing a GPS positon system with GMap. After this, I am more familiar with GMap, EJS and SiteMesh.
+# I think every body will be curious about new, pretty, nice. Yes, "Openremote":http://openremote.org happeded to me. HA, GWT, Voyage Linux, IR, KNX, iPhone, iPod, MacBook, MAC OS X, XCode and Objective-C these key words are so exciting for me. Because I am not only a JAVA and ROR developer now, but also a iPhone developer from the singles' day(2009/11/11).
+# To be continue...
