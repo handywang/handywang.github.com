@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I am on my way
+title: I am on my way(Update persistently)
 ---
 
 h1. {{ page.title }}
