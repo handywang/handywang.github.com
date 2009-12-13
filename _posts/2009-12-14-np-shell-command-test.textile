@@ -1,0 +1,12 @@
+---
+layout: post
+title: NP shell command Test
+---
+
+h1. {{ page.title }}
+
+p(meta). 14 Dec 2009 - Beijing
+
+    Today, Zigzag told me that he make a nice shell command using ruby named NP. He especially recommended me to use this NP tool.
+    Now, I get the NP ruby code and run it with command[ruby np "My Today Blog"]. Then I can find a file in the _post directory named with date and extention name textile. And I only need do is write straight matter of the Blog in generated blog file. I needn't care title and date. Because the String parameter of np "My Today Blog" is the title of blog and date is when the "ruby np" command executed.
+    If you also like it, you can fork from "http://github.com/zigzag/zigzag.github.com" or my github "http://github.com/handywang/handywang.github.com".
