@@ -1,0 +1,10 @@
+---
+layout: post
+title: Learn MAC OS X based development from svnX
+---
+
+h1. {{ page.title }}
+
+p(meta). 15 Dec 2009 - Beijing
+
+To be continue...
